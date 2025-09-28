@@ -1,0 +1,12 @@
+Column,Null_Count,Null_Percentage,Non_Null_Count,Data_Type,Completeness,Status
+p1,0,0.0,4320,float64,100.0,✅ Perfect
+p2,0,0.0,4320,float64,100.0,✅ Perfect
+p3,0,0.0,4320,float64,100.0,✅ Perfect
+p4,0,0.0,4320,float64,100.0,✅ Perfect
+p5,0,0.0,4320,float64,100.0,✅ Perfect
+r1,0,0.0,4320,float64,100.0,✅ Perfect
+r2,0,0.0,4320,float64,100.0,✅ Perfect
+r3,0,0.0,4320,float64,100.0,✅ Perfect
+r4,0,0.0,4320,float64,100.0,✅ Perfect
+r5,0,0.0,4320,float64,100.0,✅ Perfect
+label,0,0.0,4320,object,100.0,✅ Perfect
