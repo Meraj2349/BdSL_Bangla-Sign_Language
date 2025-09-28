@@ -1,0 +1,25 @@
+{
+  "dataset_info": {
+    "total_samples": 22507,
+    "total_characters": 39,
+    "total_features": 10,
+    "file_size_mb": 1.29
+  },
+  "character_breakdown": {
+    "vowels": 9,
+    "consonants": 28,
+    "special_characters": 2
+  },
+  "quality_metrics": {
+    "missing_values": 24580,
+    "duplicate_rows": 3558,
+    "min_samples_per_class": 261,
+    "max_samples_per_class": 1114,
+    "coefficient_of_variation": 27.06
+  },
+  "readiness_assessment": {
+    "score": "4/5",
+    "percentage": 80.0,
+    "status": "🟢 EXCELLENT - Ready for production ML models!"
+  }
+}
